@@ -23,9 +23,9 @@ Subscription Management: Players can easily subscribe to their chosen PC centers
 إدارة الاشتراكات: يمكن للاعبين الاشتراك بسهولة في مراكز الكمبيوتر المختارة، والاستفادة من العروض الحصرية، والتحديثات، والفعاليات، بينما تدير مراكز الكمبيوتر اشتراكاتها وتفاعلات المستخدمين بسلاسة.
 يهدف "نوب" إلى جمع اللاعبين، والفرق، والمدربين، ومراكز الألعاب في منصة واحدة، مما يعزز تجربة الألعاب ويدعم مجتمع الرياضات الإلكترونية النابض بالحياة.
 
-Use Case Diagram: https://lucid.app/lucidchart/56ca0f5c-4eb7-4e79-b0f6-14d190e348cf/edit?viewport_loc=-2725%2C574%2C5507%2C2568%2C0_0&invitationId=inv_1829aead-4e3d-4d87-a7c0-3da38e9f117b
+![Final Project Class Diagram](https://github.com/user-attachments/assets/b1fb000f-8c7e-4fed-a913-b30600c2e986)
 
-UML Class Diagram: https://app.diagrams.net/#G1bruFimOwVR5KivpLjTzH2Wah70n8tbzL#%7B%22pageId%22%3A%22R2lEEEUBdFMjLlhIrx00%22%7D
+![UML Use Case Diagram](https://github.com/user-attachments/assets/e108f632-a4fb-432e-94bf-150906b2e44e)
 
 ![PostMan](https://github.com/user-attachments/assets/f790d0c4-81a3-4c0a-b859-6e09680cb4c6)
 
@@ -34,7 +34,6 @@ https://www.canva.com/design/DAGQ_9lAwuU/uPJlkOj0XV8sx3AN4qdTiA/edit?utm_content
 
 
 My Endpoints
-
 getAllCoaches
 registerCoach
 updateMyInfo
@@ -71,7 +70,8 @@ updateSchedule
 deleteSchedule
 getScheduleById
 getSchedulesByCoachId
-
+distributePrizes
+updateMasterClassStatus
 
 DTO'S 
 
